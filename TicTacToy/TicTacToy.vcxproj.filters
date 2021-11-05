@@ -51,4 +51,27 @@
   <ItemGroup>
     <None Include="src\README.md" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\clear_space.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="assets\cross_space.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="assets\crosses_won.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="assets\draw_screen.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="assets\white_screen.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="assets\zero_space.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="assets\zeroes_won.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+  </ItemGroup>
 </Project>

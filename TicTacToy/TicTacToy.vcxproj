@@ -177,6 +177,15 @@
   <ItemGroup>
     <None Include="src\README.md" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\clear_space.bmp" />
+    <Image Include="assets\crosses_won.bmp" />
+    <Image Include="assets\cross_space.bmp" />
+    <Image Include="assets\draw_screen.bmp" />
+    <Image Include="assets\white_screen.bmp" />
+    <Image Include="assets\zeroes_won.bmp" />
+    <Image Include="assets\zero_space.bmp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
